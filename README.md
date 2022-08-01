@@ -2,3 +2,4 @@
 
 # Staff Attendance Analysis
 
+![GitHub last commit](https://img.shields.io/github/last-commit/smartbre/staffdata)<br/>
